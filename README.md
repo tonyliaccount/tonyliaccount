@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Sample work  
+#### QuickGallery: https://quick-gallery.herokuapp.com/ 
+Developed with [@IrinaPresnyakova]( https://github.com/IrinaPresnyakova ), QuickGallery utilizes the Metropolitan Museum of Art public API, and displays randomly curated museum pieces based on exhibits.
